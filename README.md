@@ -1,2 +1,2 @@
 # first-try
-just a try
+Just a try
